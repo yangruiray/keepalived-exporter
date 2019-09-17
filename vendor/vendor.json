@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "MXqUZAuWyiMWV7HC0X2krRinZoI=",
+			"path": "github.com/alecthomas/template",
+			"revision": "fb15b899a75114aa79cc930e33c46b577cc664b1",
+			"revisionTime": "2019-07-18T01:26:54Z"
+		},
+		{
+			"checksumSHA1": "3wt0pTXXeS+S93unwhGoLIyGX/Q=",
+			"path": "github.com/alecthomas/template/parse",
+			"revision": "fb15b899a75114aa79cc930e33c46b577cc664b1",
+			"revisionTime": "2019-07-18T01:26:54Z"
+		},
+		{
+			"checksumSHA1": "y3CXGqtPBetSO97HcQCMV74n0mo=",
+			"path": "github.com/alecthomas/units",
+			"revision": "c3de453c63f4bdb4dadffab9805ec00426c505f7",
+			"revisionTime": "2019-07-17T04:22:25Z"
+		},
+		{
+			"checksumSHA1": "MGnqHnmEqc1fjnYiWReSiW8C27A=",
+			"path": "github.com/prometheus/common/log",
+			"revision": "637d7c34db122e2d1a25d061423098663758d2d3",
+			"revisionTime": "2019-07-30T17:58:46Z"
+		},
+		{
+			"checksumSHA1": "4GI/G+nYyCQ3ltASSBIunUr2LYk=",
+			"path": "github.com/sirupsen/logrus",
+			"revision": "de736cf91b921d56253b4010270681d33fdf7cb5",
+			"revisionTime": "2019-08-07T10:34:36Z"
+		},
+		{
+			"checksumSHA1": "63O72qRpVdJtCJLvICFXPDRhCqk=",
+			"path": "golang.org/x/sys/unix",
+			"revision": "c7b8b68b14567162c6602a7c5659ee0f26417c18",
+			"revisionTime": "2019-08-26T02:57:52Z"
+		},
+		{
+			"checksumSHA1": "FCBHX83YaM1LmNHtSM30BKmbJQY=",
+			"path": "golang.org/x/sys/windows/registry",
+			"revision": "c7b8b68b14567162c6602a7c5659ee0f26417c18",
+			"revisionTime": "2019-08-26T02:57:52Z"
+		},
+		{
+			"checksumSHA1": "uVlUSSKplihZG7N+QJ6fzDZ4Kh8=",
+			"path": "golang.org/x/sys/windows/svc/eventlog",
+			"revision": "c7b8b68b14567162c6602a7c5659ee0f26417c18",
+			"revisionTime": "2019-08-26T02:57:52Z"
+		},
+		{
+			"checksumSHA1": "sToCp8GThnMnsBzsHv+L/tBYQrQ=",
+			"path": "gopkg.in/alecthomas/kingpin.v2",
+			"revision": "947dcec5ba9c011838740e680966fd7087a71d0d",
+			"revisionTime": "2017-12-17T18:08:21Z"
+		}
+	],
+	"rootPath": "github.com/keepalived-exporter"
+}
